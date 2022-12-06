@@ -8,7 +8,6 @@ puts check_number(6)
 
 puts 
 
-
 number = 5
 
 if number%2 == 0
