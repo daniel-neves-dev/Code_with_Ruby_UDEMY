@@ -9,6 +9,12 @@ def firts_letter(fruits)
   puts "The firts letter of the last fruit in the list is: #{fruits[-1][0]}"
 end
 
+def end_begin(fruits)
+  puts
+  print "\nThe firts three fruits of the list are: #{fruits[0,3]}"
+  print "\nThe last trhee fruits of the list are: #{fruits[-3,3]}"
+end
+
 def product_even_indicies(numbers)
   puts 
   puts "#{numbers[0]} x #{numbers[2]} x #{numbers[4]} = #{numbers[0]*numbers[2]*numbers[4]}"
@@ -17,6 +23,7 @@ end
 fruits = ["apple", "orange","grape","banana","watermellon"]
 first_and_last(fruits)
 firts_letter(fruits)
+end_begin(fruits)
 
 numbers = [1, 2, 3, 4, 5, 6]
 product_even_indicies(numbers)
