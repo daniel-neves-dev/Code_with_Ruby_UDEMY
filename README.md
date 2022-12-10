@@ -37,5 +37,5 @@ Udemy course to learn code with ruby
 * [102_Overwrite_array](https://github.com/daniel-neves-dev/Code_with_Ruby_UDEMY/blob/main/Section8_Arrays1/102_Overwrite_array.rb)
 * [105_First_last_method](https://github.com/daniel-neves-dev/Code_with_Ruby_UDEMY/blob/main/Section8_Arrays1/105_First_last_method.rb)
 * [106_Add_remove_array](https://github.com/daniel-neves-dev/Code_with_Ruby_UDEMY/blob/main/Section8_Arrays1/106_Add_remove_array.rb)
-* []()
+* [109_Compare_arrays](https://github.com/daniel-neves-dev/Code_with_Ruby_UDEMY/blob/main/Section8_Arrays1/109_Compare_arrays.rb)
 * [110_Spaceship_operator](https://github.com/daniel-neves-dev/Code_with_Ruby_UDEMY/blob/main/Section8_Arrays1/110_Spaceship_operator.rb)
