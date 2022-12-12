@@ -2,11 +2,8 @@ numbers = [5,10,15,20,25,30,35,40]
 evens = []
 odds = []
 numbers.each do |number|
-  if number.even?
-    evens.push(number)
-  elsif number.odd?
-    odds.push(number)
-  end
+  number.even? ? evens.push(number) : odds.push(number)
+  #or numbers.each {|number| number.even? ? evens.push(number) : odds.push(number)} 
 end
 
 p evens
