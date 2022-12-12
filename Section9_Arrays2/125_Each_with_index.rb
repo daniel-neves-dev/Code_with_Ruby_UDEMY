@@ -19,5 +19,13 @@ sum = 0
   puts "#{num} + #{i} = #{num+i}"
   sum += (num+i)
 end
-
 puts "The total is #{sum}"
+
+puts 
+
+[-1, 2, 1, 2, 5, 7, 3].each_with_index do |n,i|
+  if i > n
+    puts "The index #{i} is greather than the number #{n} "
+  end
+end
+
