@@ -1,4 +1,4 @@
-def dynimic_range(lower, upper)
+def dynamic_range(lower, upper)
   numbers = (lower..upper)
   puts 
   p numbers.first

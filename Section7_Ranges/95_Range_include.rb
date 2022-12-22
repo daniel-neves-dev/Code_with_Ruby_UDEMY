@@ -4,7 +4,7 @@ p alphabet.include?("e")
 
 puts
 
-numbers = 1..10
+numbers = 1..12
 p numbers.include?(3)
 p numbers.include?(12)
 p numbers.size
