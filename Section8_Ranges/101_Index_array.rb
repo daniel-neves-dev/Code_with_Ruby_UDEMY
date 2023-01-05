@@ -25,6 +25,8 @@ first_and_last(fruits)
 firts_letter(fruits)
 end_begin(fruits)
 
+puts 
+
 numbers = [1, 2, 3, 4, 5, 6]
 product_even_indicies(numbers)
 numbers = [3, 4, 3, 5, 3, 6]

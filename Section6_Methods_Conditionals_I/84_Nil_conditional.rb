@@ -1,5 +1,5 @@
 greeting = "Hello"
-extraction = 3
+extraction = 10
 letter = greeting[extraction]
 
 unless letter == nil

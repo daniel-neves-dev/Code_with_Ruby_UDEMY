@@ -12,7 +12,7 @@ puts
 #def custom_min(arr)
 #  min = arr[0]
 #  arr.each do |value|
-#    min == value if value < min
+#    min = value if value < min
 #  end
 #  puts "O menor valor é: #{arr.min}"
 #end

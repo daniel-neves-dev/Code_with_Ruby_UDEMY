@@ -13,4 +13,4 @@ lower = gets.to_i
 puts "Tipe the last number:"
 upper = gets.to_i
 
-dynimic_range(lower, upper)
+dynamic_range(lower, upper)
