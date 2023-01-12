@@ -1,4 +1,4 @@
-
+puts
 class Gadget
   def initialize 
     @username = "User #{rand(1..100)}" 
